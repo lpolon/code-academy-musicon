@@ -155,6 +155,11 @@ nav {
   text-align: left;
 }
 
+.deal {
+  font-size: 2em;
+  color:black;
+}
+
 /* Contact Page Rulesets */
 
 #connection {
